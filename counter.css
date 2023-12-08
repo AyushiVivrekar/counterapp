@@ -1,0 +1,27 @@
+.container{
+    border: 1px soild black !important;
+    background: rgba(231, 237, 247, 0.98);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px 20px 20px 20px;
+    display: block;
+    text-align: center;
+    width: 35% !important;
+    position: relative;
+    top: 70px;
+}
+.numberCount{
+    font-size: 55px;
+    font-weight: 500;
+}
+.desc{
+      background: red;
+      color: #fff;
+}
+.reset{
+    background: gray;
+     color: #fff;
+}
+.incr{
+    background:green;
+    color: #fff;
+}
